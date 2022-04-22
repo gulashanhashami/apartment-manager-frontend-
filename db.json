@@ -1,0 +1,379 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "no": 101,
+      "type": "Owner",
+      "block": "A",
+      "residents": 6,
+      "image": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmxhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 111,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "A-101"
+        },
+        {
+          "resi_id": 112,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "A-101"
+        },
+        {
+          "resi_id": 113,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "A-101"
+        },
+        {
+          "resi_id": 114,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "A-101"
+        },
+        {
+          "resi_id": 115,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "A-101"
+        },
+        {
+          "resi_id": 116,
+          "name": "Suchi Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "A-101"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "no": 102,
+      "type": "Tenant",
+      "block": "B",
+      "residents": "6",
+      "image": "https://images.unsplash.com/photo-1506265641542-1f3fd9066e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 117,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "B-102"
+        },
+        {
+          "resi_id": 118,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "B-102"
+        },
+        {
+          "resi_id": 119,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "B-102"
+        },
+        {
+          "resi_id": 120,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "B-102"
+        },
+        {
+          "resi_id": 121,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "B-102"
+        },
+        {
+          "resi_id": 122,
+          "name": "Suchi Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "B-102"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "no": 103,
+      "type": "Tenant",
+      "block": "C",
+      "residents": 6,
+      "image": "https://images.unsplash.com/photo-1614538568306-e1cc224a52f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 123,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "C-103"
+        },
+        {
+          "resi_id": 124,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "C-103"
+        },
+        {
+          "resi_id": 125,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "C-103"
+        },
+        {
+          "resi_id": 126,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "C-103"
+        },
+        {
+          "resi_id": 127,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "C-103"
+        },
+        {
+          "resi_id": 128,
+          "name": "Suchi Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "C-103"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "no": 104,
+      "type": "Owner",
+      "block": "D",
+      "residents": 5,
+      "image": "https://images.unsplash.com/photo-1597047084897-51e81819a499?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8ZmxhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 129,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "D-104"
+        },
+        {
+          "resi_id": 130,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "D-104"
+        },
+        {
+          "resi_id": 131,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "D-104"
+        },
+        {
+          "resi_id": 132,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "D-104"
+        },
+        {
+          "resi_id": 133,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "D-104"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "no": 105,
+      "type": "Owner",
+      "block": "E",
+      "residents": 5,
+      "image": "https://images.unsplash.com/photo-1506265641542-1f3fd9066e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 135,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "E-105"
+        },
+        {
+          "resi_id": 136,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "E-105"
+        },
+        {
+          "resi_id": 137,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "E-105"
+        },
+        {
+          "resi_id": 138,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "E-105"
+        },
+        {
+          "resi_id": 139,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "E-105"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "no": 106,
+      "type": "Tenant",
+      "block": "F",
+      "residents": 7,
+      "image": "https://images.unsplash.com/photo-1614538568306-e1cc224a52f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 141,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 142,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 143,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 144,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 145,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 146,
+          "name": "Suchi Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "F-106"
+        },
+        {
+          "resi_id": 147,
+          "name": "Suman Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "F-106"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "no": 107,
+      "type": "Tenant",
+      "block": "G",
+      "residents": 6,
+      "image": "https://images.unsplash.com/photo-1506265641542-1f3fd9066e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "data_resid": [
+        {
+          "resi_id": 148,
+          "name": "Rahul Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "G-107"
+        },
+        {
+          "resi_id": 149,
+          "name": "Rajat Singh",
+          "gender": "Male",
+          "age": 24,
+          "belongs": "G-107"
+        },
+        {
+          "resi_id": 150,
+          "name": "Rohit Kumar",
+          "gender": "Male",
+          "age": 25,
+          "belongs": "G-107"
+        },
+        {
+          "resi_id": 151,
+          "name": "Sandhya Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "G-107"
+        },
+        {
+          "resi_id": 152,
+          "name": "Yes Kumar",
+          "gender": "Male",
+          "age": 23,
+          "belongs": "G-107"
+        },
+        {
+          "resi_id": 153,
+          "name": "Suchi Singh",
+          "gender": "Female",
+          "age": 24,
+          "belongs": "G-107"
+        }
+      ]
+    },
+    {
+      "data_resid": [],
+      "no": "108",
+      "type": "Owner",
+      "block": "B",
+      "residents": "0",
+      "image": "https://images.unsplash.com/photo-1581404635299-f473ede8699a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 8
+    },
+    {
+      "data_resid": [],
+      "no": "108",
+      "type": "Tenant",
+      "block": "B",
+      "residents": "0",
+      "image": "https://images.unsplash.com/photo-1565329921943-7e537b7a2ea9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "id": 9
+    }
+  ]
+}
