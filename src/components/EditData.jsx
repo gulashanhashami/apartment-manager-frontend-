@@ -69,7 +69,7 @@ export const EditDatas=()=>{
        setData(data.data);
     })
     },[])
-// console.log(data.no)
+
     function handleChange(e) {
         let key = e.target.name;
         let inputData = {};
