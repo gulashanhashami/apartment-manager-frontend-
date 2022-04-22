@@ -87,7 +87,7 @@ let navigate=useNavigate();
          email:"",
          password:""
        })*/
-//  console.log(sign_data)
+
     return (
         <div>
            <ResultDiv> 
