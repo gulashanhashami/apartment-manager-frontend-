@@ -310,7 +310,7 @@
       "no": 107,
       "type": "Tenant",
       "block": "G",
-      "residents": 6,
+      "residents": 5,
       "image": "https://images.unsplash.com/photo-1506265641542-1f3fd9066e92?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGZsYXRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
       "data_resid": [
         {
@@ -347,14 +347,8 @@
           "gender": "Male",
           "age": 23,
           "belongs": "G-107"
-        },
-        {
-          "resi_id": 153,
-          "name": "Suchi Singh",
-          "gender": "Female",
-          "age": 24,
-          "belongs": "G-107"
         }
+       
       ]
     },
     {
